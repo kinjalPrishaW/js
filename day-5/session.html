@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Session Storage Example</title>
+</head>
+<body>
+    <h1>Session Storage Example</h1>
+    <button onclick="storeData()">Store Data</button>
+    <button onclick="retrieveData()">Retrieve Data</button>
+    <button onclick="removeData()">Remove Data</button>
+    <button onclick="clearAllData()">Clear All Data</button>
+
+    <script>
+        function storeData() {
+            sessionStorage.setItem('name', 'John Doe');
+            sessionStorage.setItem('age', '30');
+            alert('Data stored');
+        }
+
+        function retrieveData() {
+            let name = sessionStorage.getItem('name');
+            let age = sessionStorage.getItem('age');
+            if (name && age) {
+                alert('Name: ' + name + ', Age: ' + age);
+            } else {
+                alert('No data found');
+            }
+        }
+
+        function removeData() {
+            sessionStorage.removeItem('name');
+            sessionStorage.removeItem('age');
+            alert('Data removed');
+        }
+
+        function clearAllData() {
+            sessionStorage.clear();
+            alert('All data cleared');
+        }
+    </script>
+</body>
+</html>
