@@ -73,7 +73,7 @@ console.log(third);
 console.log(fifth); 
 
  //object destructuring
- const person = {n:"shainy",age:22};
+ const person = {n:"kinjal",age:22};
  const {n,age} = person;
  console.log(age); 
  console.log(n); 
