@@ -1,0 +1,918 @@
+
+[
+  {
+    "id": 1,
+    "name": "Spaghetti Carbonara",
+    "details": "An Italian pasta dish from Rome.",
+    "ingredients": [
+      "200g spaghetti",
+      "100g guanciale or pancetta",
+      "2 large eggs",
+      "50g Pecorino Romano cheese",
+      "Salt and black pepper"
+    ],
+    "instructions": [
+      "Bring a large pot of salted water to a boil. Cook spaghetti according to package instructions until al dente.",
+      "Meanwhile, cut guanciale or pancetta into small pieces. Heat a large skillet over medium heat and cook guanciale until crispy.",
+      "In a bowl, whisk together eggs, grated Pecorino Romano cheese, salt, and pepper.",
+      "Drain cooked spaghetti, reserving some pasta water. Immediately add hot spaghetti to the skillet with guanciale, tossing to coat.",
+      "Remove skillet from heat and quickly stir in egg mixture, adding reserved pasta water as needed to create a creamy sauce.",
+      "Serve immediately with additional Pecorino Romano cheese and black pepper."
+    ],
+    "prepTime": "10 minutes",
+    "cookTime": "15 minutes",
+    "servings": "2"
+  },
+  {
+    "id": 2,
+    "name": "Chicken Curry",
+    "details": "A spicy and flavorful dish.",
+    "ingredients": [
+      "500g chicken breast, cut into cubes",
+      "2 tbsp vegetable oil",
+      "1 large onion, finely chopped",
+      "3 cloves garlic, minced",
+      "1 tbsp ginger, grated",
+      "2 tbsp curry powder",
+      "1 tsp cumin powder",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric powder",
+      "1/4 tsp cayenne pepper (optional, for heat)",
+      "400ml coconut milk",
+      "1 cup chicken broth",
+      "1 tbsp soy sauce",
+      "2 tbsp tomato paste",
+      "Salt and pepper to taste",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+      "Heat vegetable oil in a large skillet or pot over medium-high heat. Add chopped onion and cook until softened.",
+      "Add minced garlic and grated ginger, sauté for another minute until fragrant.",
+      "Add chicken cubes to the skillet and cook until browned on all sides.",
+      "Stir in curry powder, cumin powder, coriander powder, turmeric powder, and cayenne pepper. Cook for 1-2 minutes until spices are fragrant.",
+      "Pour in coconut milk, chicken broth, soy sauce, and tomato paste. Stir to combine.",
+      "Bring to a simmer, then reduce heat to low and let it simmer uncovered for 20-25 minutes until chicken is cooked through and sauce is thickened.",
+      "Season with salt and pepper to taste.",
+      "Serve hot, garnished with fresh cilantro, alongside rice or naan."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "30 minutes",
+    "servings": "4-6"
+  },
+  {
+    "id": 3,
+    "name": "Chole",
+    "details": "A spicy and tangy chickpea curry.",
+    "ingredients": [
+      "2 cups chickpeas, soaked overnight",
+      "2 onions, finely chopped",
+      "3 tomatoes, pureed",
+      "3 cloves garlic, minced",
+      "1 tsp ginger, minced",
+      "1 tsp cumin seeds",
+      "1 tsp garam masala",
+      "1 tsp coriander powder",
+      "1/2 tsp turmeric powder",
+      "1 tsp chili powder",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+      "Cook chickpeas in a pressure cooker until soft.",
+      "Heat oil in a pan and add cumin seeds. When they start to splutter, add onions, garlic, and ginger; sauté until golden.",
+      "Add tomato puree, turmeric powder, chili powder, coriander powder, garam masala, and salt. Cook until oil separates.",
+      "Add cooked chickpeas and simmer for 10 minutes.",
+      "Garnish with fresh cilantro before serving."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "30 minutes",
+    "servings": "4"
+  },
+  {
+    "id": 4,
+    "name": "Biryani",
+    "details": "A flavorful rice dish made with basmati rice, meat, and aromatic spices.",
+    "ingredients": [
+      "2 cups basmati rice",
+      "500g chicken or lamb, cut into pieces",
+      "2 onions, thinly sliced",
+      "3 tomatoes, chopped",
+      "3 cloves garlic, minced",
+      "1 tbsp ginger, minced",
+      "1 cup yogurt",
+      "2 tsp biryani masala",
+      "1 tsp turmeric powder",
+      "Salt to taste",
+      "Fresh cilantro and mint for garnish",
+      "3 tbsp ghee or oil"
+    ],
+    "instructions": [
+      "Cook rice until 70% done and set aside.",
+      "Heat ghee or oil in a large pot and fry onions until golden and crispy. Remove half and set aside for garnish.",
+      "Add garlic, ginger, and tomatoes to the pot; sauté until tomatoes are soft.",
+      "Add meat, yogurt, biryani masala, turmeric powder, and salt. Cook until meat is tender.",
+      "Layer half of the cooked rice over the meat mixture. Sprinkle with fried onions, cilantro, and mint.",
+      "Layer remaining rice on top. Cover and cook on low heat for 15-20 minutes.",
+      "Serve hot with raita."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "1 hour",
+    "servings": "4"
+  },
+  {
+    "id": 5,
+    "name": "Samosa",
+    "details": "A popular Indian snack filled with spiced potatoes and peas.",
+    "ingredients": [
+      "2 cups all-purpose flour",
+      "4 tbsp oil",
+      "1/2 tsp salt",
+      "Water to knead dough",
+      "3 potatoes, boiled and mashed",
+      "1/2 cup green peas, boiled",
+      "1 onion, finely chopped",
+      "2 green chilies, finely chopped",
+      "1 tsp cumin seeds",
+      "1 tsp garam masala",
+      "1 tsp coriander powder",
+      "Salt to taste",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Mix flour, salt, and oil in a bowl. Add water gradually and knead into a firm dough. Set aside.",
+      "Heat oil in a pan and add cumin seeds. When they start to splutter, add onions and green chilies; sauté until onions are soft.",
+      "Add mashed potatoes, peas, garam masala, coriander powder, and salt. Cook for 5 minutes.",
+      "Roll out dough and cut into circles. Fill each circle with the potato mixture and fold into a triangle.",
+      "Heat oil in a deep fryer and fry samosas until golden brown.",
+      "Serve hot with chutney."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "20 minutes",
+    "servings": "4"
+  },
+  {
+    "id": 6,
+    "name": "Dosa",
+    "details": "A crispy South Indian crepe made from fermented rice and lentil batter.",
+    "ingredients": [
+      "2 cups rice",
+      "1 cup urad dal (black gram lentils)",
+      "1/2 tsp fenugreek seeds",
+      "Salt to taste",
+      "Oil for cooking"
+    ],
+    "instructions": [
+      "Soak rice, urad dal, and fenugreek seeds in water for 6 hours. Grind into a smooth batter and ferment overnight.",
+      "Add salt to the fermented batter and mix well.",
+      "Heat a non-stick pan and pour a ladleful of batter, spreading it into a thin circle.",
+      "Drizzle oil around the edges and cook until golden brown.",
+      "Serve hot with coconut chutney and sambar."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "5 minutes per dosa",
+    "servings": "4"
+  },
+  {
+    "id": 7,
+    "name": "Paneer Tikka",
+    "details": "Grilled paneer cubes marinated in spices and yogurt.",
+    "ingredients": [
+      "200g paneer, cubed",
+      "1 cup yogurt",
+      "1 tbsp ginger-garlic paste",
+      "1 tsp chili powder",
+      "1 tsp turmeric powder",
+      "1 tsp garam masala",
+      "1 tsp cumin powder",
+      "Salt to taste",
+      "2 tbsp oil",
+      "1 lemon"
+    ],
+    "instructions": [
+      "Mix yogurt, ginger-garlic paste, chili powder, turmeric powder, garam masala, cumin powder, and salt in a bowl.",
+      "Add paneer cubes and marinate for at least 1 hour.",
+      "Thread marinated paneer onto skewers and grill on medium heat until golden brown.",
+      "Serve hot with lemon wedges and mint chutney."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "10 minutes",
+    "servings": "4"
+  },
+  {
+    "id": 8,
+    "name": "Rogan Josh",
+    "details": "A flavorful lamb curry from Kashmir.",
+    "ingredients": [
+      "500g lamb, cut into pieces",
+      "2 onions, finely chopped",
+      "3 tomatoes, pureed",
+      "3 cloves garlic, minced",
+      "1 tbsp ginger, minced",
+      "1 tsp cumin seeds",
+      "1 tsp coriander powder",
+      "1 tsp garam masala",
+      "1/2 tsp turmeric powder",
+      "1 tsp chili powder",
+      "1/2 cup yogurt",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+      "Heat oil in a pot and add cumin seeds. When they start to splutter, add onions, garlic, and ginger; sauté until golden.",
+      "Add tomato puree, turmeric powder, chili powder, coriander powder, garam masala, and salt. Cook until oil separates.",
+      "Add lamb pieces and cook until browned.",
+      "Stir in yogurt and simmer until lamb is tender.",
+      "Garnish with fresh cilantro before serving."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "1 hour",
+    "servings": "4"
+  },
+  {
+    "id": 9,
+    "name": "Aloo Gobi",
+    "details": "A vegetarian curry made with potatoes and cauliflower.",
+    "ingredients": [
+      "2 potatoes, cubed",
+      "1 cauliflower, cut into florets",
+      "1 onion, finely chopped",
+      "2 tomatoes, chopped",
+      "3 cloves garlic, minced",
+      "1 tsp ginger, minced",
+      "1 tsp cumin seeds",
+      "1 tsp turmeric powder",
+      "1 tsp garam masala",
+      "1 tsp coriander powder",
+      "Salt to taste",
+      "2 tbsp oil",
+      "Fresh cilantro for garnish"
+    ],
+    "instructions": [
+      "Heat oil in a pan and add cumin seeds. When they start to splutter, add onions, garlic, and ginger; sauté until golden.",
+      "Add tomatoes, turmeric powder, garam masala, coriander powder, and salt. Cook until tomatoes are soft.",
+      "Add potatoes and cauliflower, stirring to coat with spices.",
+      "Cover and cook until vegetables are tender.",
+      "Garnish with fresh cilantro before serving."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "25 minutes",
+    "servings": "4"
+  },
+  {
+    "id": 10,
+    "name": "Gulab Jamun",
+    "details": "A popular Indian dessert made of deep-fried dough balls soaked in sugar syrup.",
+    "ingredients": [
+      "1 cup milk powder",
+      "1/4 cup all-purpose flour",
+      "1/4 tsp baking soda",
+      "2 tbsp ghee",
+      "1/4 cup milk",
+      "2 cups sugar",
+      "1 cup water",
+      "1 tsp cardamom powder",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Mix milk powder, flour, and baking soda in a bowl. Add ghee and mix well.",
+      "Gradually add milk and knead into a soft dough. Let it rest for 10 minutes.",
+      "Divide dough into small balls.",
+      "Heat oil in a deep pan and fry dough balls until golden brown.",
+      "In a separate pan, dissolve sugar in water and bring to a boil. Add cardamom powder and simmer for 10 minutes.",
+      "Soak fried dough balls in hot sugar syrup for at least 30 minutes.",
+      "Serve warm or chilled."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "30 minutes",
+    "servings": "4"
+  },
+
+
+  
+  {
+    "id": 11,
+    "name": "Rasgulla",
+    "details": "Soft and spongy cheese balls soaked in sugar syrup.",
+    "ingredients": [
+      "1 liter milk",
+      "2 tbsp lemon juice",
+      "1 cup sugar",
+      "4 cups water",
+      "1 tsp rose water"
+    ],
+    "instructions": [
+      "Boil milk in a pan. Add lemon juice to curdle the milk.",
+      "Strain the curdled milk using a muslin cloth to separate the chenna (paneer). Rinse under cold water and squeeze out excess water.",
+      "Knead the chenna until smooth and soft. Make small balls from the chenna.",
+      "In a large pot, dissolve sugar in water and bring to a boil.",
+      "Add chenna balls to the boiling syrup and cook for 15 minutes, covered.",
+      "Add rose water and let the rasgullas cool in the syrup.",
+      "Serve chilled."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "30 minutes",
+    "servings": "4"
+  },
+  {
+    "id": 12,
+    "name": "Jalebi",
+    "details": "Crispy and sweet pretzel-like dessert soaked in sugar syrup.",
+    "ingredients": [
+      "1 cup all-purpose flour",
+      "2 tbsp cornflour",
+      "1/2 cup yogurt",
+      "1/4 tsp baking powder",
+      "1/4 tsp turmeric powder",
+      "2 cups sugar",
+      "1 cup water",
+      "1/4 tsp cardamom powder",
+      "Saffron strands",
+      "Oil for frying"
+    ],
+    "instructions": [
+      "Mix flour, cornflour, yogurt, baking powder, and turmeric powder in a bowl. Add water to make a smooth batter and let it ferment for 8 hours.",
+      "Heat oil in a pan. Pour the batter into a piping bag and pipe spirals into the hot oil. Fry until golden and crispy.",
+      "In a separate pan, dissolve sugar in water and bring to a boil. Add cardamom powder and saffron strands.",
+      "Soak the fried jalebis in the hot sugar syrup for a few minutes.",
+      "Serve hot."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "30 minutes",
+    "servings": "4"
+  },
+  {
+    "id": 13,
+    "name": "Kheer",
+    "details": "A creamy rice pudding flavored with cardamom and saffron.",
+    "ingredients": [
+      "1/2 cup basmati rice",
+      "1 liter milk",
+      "1/2 cup sugar",
+      "1/4 tsp cardamom powder",
+      "A few saffron strands",
+      "2 tbsp chopped nuts (almonds, pistachios)"
+    ],
+    "instructions": [
+      "Wash and soak rice for 30 minutes.",
+      "Boil milk in a large pot. Add soaked rice and cook on low heat until the rice is soft and the milk has thickened.",
+      "Add sugar, cardamom powder, and saffron strands. Cook for another 10 minutes.",
+      "Garnish with chopped nuts.",
+      "Serve warm or chilled."
+    ],
+    "prepTime": "10 minutes",
+    "cookTime": "40 minutes",
+    "servings": "4"
+  },
+  {
+    "id": 14,
+    "name": "Ladoo",
+    "details": "Sweet round balls made from gram flour, ghee, and sugar.",
+    "ingredients": [
+      "2 cups gram flour (besan)",
+      "1 cup ghee",
+      "1 1/2 cups powdered sugar",
+      "1/2 tsp cardamom powder",
+      "2 tbsp chopped nuts (optional)"
+    ],
+    "instructions": [
+      "Heat ghee in a pan and add gram flour. Roast on low heat until golden brown and fragrant.",
+      "Remove from heat and let it cool slightly. Add powdered sugar and cardamom powder; mix well.",
+      "Form the mixture into small balls (ladoo).",
+      "Garnish with chopped nuts if desired.",
+      "Store in an airtight container."
+    ],
+    "prepTime": "10 minutes",
+    "cookTime": "30 minutes",
+    "servings": "4"
+  },
+  {
+    "id": 15,
+    "name": "Barfi",
+    "details": "A dense and sweet milk-based confection.",
+    "ingredients": [
+      "2 cups milk powder",
+      "1 cup heavy cream",
+      "1/2 cup sugar",
+      "1/4 tsp cardamom powder",
+      "Chopped nuts for garnish"
+    ],
+    "instructions": [
+      "Mix milk powder and heavy cream in a pan. Cook on low heat until the mixture thickens.",
+      "Add sugar and cardamom powder. Continue to cook until the mixture leaves the sides of the pan.",
+      "Pour the mixture into a greased tray and smooth the top.",
+      "Garnish with chopped nuts and let it cool.",
+      "Cut into squares and serve."
+    ],
+    "prepTime": "10 minutes",
+    "cookTime": "30 minutes",
+    "servings": "4"
+  },
+  {
+    "id": 16,
+    "name": "Rasmalai",
+    "details": "Soft paneer discs soaked in sweetened milk flavored with cardamom and saffron.",
+    "ingredients": [
+      "1 liter milk",
+      "2 tbsp lemon juice",
+      "1 cup sugar",
+      "4 cups water",
+      "1/2 liter milk (for rabri)",
+      "1/2 cup sugar (for rabri)",
+      "1/4 tsp cardamom powder",
+      "A few saffron strands",
+      "Chopped nuts for garnish"
+    ],
+    "instructions": [
+      "Boil milk in a pan. Add lemon juice to curdle the milk.",
+      "Strain the curdled milk using a muslin cloth to separate the chenna (paneer). Rinse under cold water and squeeze out excess water.",
+      "Knead the chenna until smooth and soft. Make small discs from the chenna.",
+      "In a large pot, dissolve sugar in water and bring to a boil.",
+      "Add chenna discs to the boiling syrup and cook for 15 minutes, covered.",
+      "Boil milk for rabri in a separate pan until it reduces to half. Add sugar, cardamom powder, and saffron strands.",
+      "Soak the chenna discs in rabri and garnish with chopped nuts.",
+      "Serve chilled."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "1 hour",
+    "servings": "4"
+  },
+ 
+  
+  {
+    "id": 17,
+    "name": "Chocolate Cake",
+    "details": "A rich and moist chocolate cake perfect for any occasion.",
+    "ingredients": [
+      "1 3/4 cups all-purpose flour",
+      "1 1/2 cups granulated sugar",
+      "3/4 cup unsweetened cocoa powder",
+      "1 1/2 tsp baking powder",
+      "1 1/2 tsp baking soda",
+      "1 tsp salt",
+      "2 large eggs",
+      "1 cup whole milk",
+      "1/2 cup vegetable oil",
+      "2 tsp vanilla extract",
+      "1 cup boiling water"
+    ],
+    "instructions": [
+      "Preheat your oven to 350°F (175°C) and grease and flour two 9-inch round baking pans.",
+      "In a large bowl, combine flour, sugar, cocoa powder, baking powder, baking soda, and salt.",
+      "Add eggs, milk, oil, and vanilla extract. Beat on medium speed for 2 minutes.",
+      "Stir in boiling water (batter will be thin).",
+      "Pour batter into prepared pans and bake for 30 to 35 minutes, or until a toothpick inserted into the center comes out clean.",
+      "Cool in pans for 10 minutes, then remove from pans to wire racks to cool completely."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "35 minutes",
+    "servings": "12"
+  },
+  {
+    "id": 18,
+    "name": "Vanilla Cake",
+    "details": "A classic vanilla cake that is light, fluffy, and perfect for layering.",
+    "ingredients": [
+      "2 1/2 cups all-purpose flour",
+      "2 1/2 tsp baking powder",
+      "1/2 tsp salt",
+      "1 1/4 cups unsalted butter, room temperature",
+      "2 cups granulated sugar",
+      "4 large eggs",
+      "1 cup whole milk",
+      "2 tsp vanilla extract"
+    ],
+    "instructions": [
+      "Preheat your oven to 350°F (175°C) and grease and flour two 9-inch round baking pans.",
+      "In a medium bowl, whisk together flour, baking powder, and salt.",
+      "In a large bowl, beat butter and sugar until light and fluffy.",
+      "Add eggs, one at a time, beating well after each addition.",
+      "Add the flour mixture alternately with milk, beginning and ending with the flour mixture. Beat until just combined.",
+      "Stir in vanilla extract.",
+      "Pour batter into prepared pans and bake for 25 to 30 minutes, or until a toothpick inserted into the center comes out clean.",
+      "Cool in pans for 10 minutes, then remove from pans to wire racks to cool completely."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "30 minutes",
+    "servings": "12"
+  },
+  {
+    "id": 19,
+    "name": "Red Velvet Cake",
+    "details": "A striking red cake with a hint of cocoa, traditionally layered with cream cheese frosting.",
+    "ingredients": [
+      "2 1/2 cups all-purpose flour",
+      "1 1/2 cups granulated sugar",
+      "1 tsp baking soda",
+      "1 tsp salt",
+      "1 tsp cocoa powder",
+      "1 1/2 cups vegetable oil",
+      "1 cup buttermilk, room temperature",
+      "2 large eggs, room temperature",
+      "2 tbsp red food coloring",
+      "1 tsp vanilla extract",
+      "1 tsp white vinegar"
+    ],
+    "instructions": [
+      "Preheat your oven to 350°F (175°C) and grease and flour two 9-inch round baking pans.",
+      "In a medium bowl, sift together flour, sugar, baking soda, salt, and cocoa powder.",
+      "In a large bowl, gently beat together the oil, buttermilk, eggs, food coloring, vanilla, and vinegar.",
+      "Add the sifted dry ingredients to the wet ingredients and mix until smooth and combined.",
+      "Divide the batter evenly between the prepared pans and bake for 25 to 30 minutes, or until a toothpick inserted into the center comes out clean.",
+      "Cool in pans for 10 minutes, then remove from pans to wire racks to cool completely."
+    ],
+    "prepTime": "20 minutes",
+    "cookTime": "30 minutes",
+    "servings": "12"
+  },
+  {
+    "id": 20,
+    "name": "Chocolate Milkshake",
+    "details": "A rich and creamy chocolate milkshake made with chocolate ice cream and milk.",
+    "ingredients": [
+      "2 cups chocolate ice cream",
+      "1 cup whole milk",
+      "2 tbsp chocolate syrup",
+      "Whipped cream (optional)",
+      "Chocolate shavings (optional)"
+    ],
+    "instructions": [
+      "In a blender, combine chocolate ice cream, milk, and chocolate syrup.",
+      "Blend until smooth and creamy.",
+      "Pour into a glass and top with whipped cream and chocolate shavings if desired.",
+      "Serve immediately."
+    ],
+    "prepTime": "5 minutes",
+    "cookTime": "0 minutes",
+    "servings": "2"
+  },
+  {
+    "id": 21,
+    "name": "Strawberry Milkshake",
+    "details": "A refreshing strawberry milkshake made with fresh strawberries and vanilla ice cream.",
+    "ingredients": [
+      "1 1/2 cups fresh strawberries, hulled and sliced",
+      "2 cups vanilla ice cream",
+      "1 cup whole milk",
+      "Whipped cream (optional)",
+      "Strawberry slices (optional)"
+    ],
+    "instructions": [
+      "In a blender, combine strawberries, vanilla ice cream, and milk.",
+      "Blend until smooth and creamy.",
+      "Pour into a glass and top with whipped cream and strawberry slices if desired.",
+      "Serve immediately."
+    ],
+    "prepTime": "5 minutes",
+    "cookTime": "0 minutes",
+    "servings": "2"
+  },
+  {
+    "id": 22,
+    "name": "Vanilla Milkshake",
+    "details": "A classic vanilla milkshake made with vanilla ice cream and milk.",
+    "ingredients": [
+      "2 cups vanilla ice cream",
+      "1 cup whole milk",
+      "1 tsp vanilla extract",
+      "Whipped cream (optional)",
+      "Sprinkles (optional)"
+    ],
+    "instructions": [
+      "In a blender, combine vanilla ice cream, milk, and vanilla extract.",
+      "Blend until smooth and creamy.",
+      "Pour into a glass and top with whipped cream and sprinkles if desired.",
+      "Serve immediately."
+    ],
+    "prepTime": "5 minutes",
+    "cookTime": "0 minutes",
+    "servings": "2"
+  },
+  {
+    "id": 23,
+    "name": "Banana Milkshake",
+    "details": "A creamy banana milkshake made with ripe bananas and vanilla ice cream.",
+    "ingredients": [
+      "2 ripe bananas, sliced",
+      "2 cups vanilla ice cream",
+      "1 cup whole milk",
+      "1 tsp vanilla extract",
+      "Whipped cream (optional)",
+      "Banana slices (optional)"
+    ],
+    "instructions": [
+      "In a blender, combine bananas, vanilla ice cream, milk, and vanilla extract.",
+      "Blend until smooth and creamy.",
+      "Pour into a glass and top with whipped cream and banana slices if desired.",
+      "Serve immediately."
+    ],
+    "prepTime": "5 minutes",
+    "cookTime": "0 minutes",
+    "servings": "2"
+  },
+  {
+    "id": 24,
+    "name": "Vanilla Ice Cream",
+    "details": "A classic and creamy vanilla ice cream made with simple ingredients.",
+    "ingredients": [
+      "2 cups heavy cream",
+      "1 cup whole milk",
+      "3/4 cup granulated sugar",
+      "1 tbsp vanilla extract",
+      "Pinch of salt"
+    ],
+    "instructions": [
+      "In a medium bowl, whisk together the cream, milk, sugar, vanilla extract, and salt until the sugar is dissolved.",
+      "Pour the mixture into an ice cream maker and churn according to the manufacturer's instructions.",
+      "Transfer the churned ice cream to a lidded container and freeze for at least 4 hours or until firm.",
+      "Serve and enjoy."
+    ],
+    "prepTime": "10 minutes",
+    "cookTime": "0 minutes",
+    "servings": "6"
+  },
+  {
+    "id": 25,
+    "name": "Chocolate Ice Cream",
+    "details": "A rich and creamy chocolate ice cream made with cocoa powder and chocolate chips.",
+    "ingredients": [
+      "2 cups heavy cream",
+      "1 cup whole milk",
+      "3/4 cup granulated sugar",
+      "1/2 cup unsweetened cocoa powder",
+      "1/2 cup chocolate chips",
+      "1 tsp vanilla extract",
+      "Pinch of salt"
+    ],
+    "instructions": [
+      "In a medium saucepan, combine the cream, milk, sugar, and cocoa powder. Heat over medium heat, stirring constantly until the sugar and cocoa powder are dissolved.",
+      "Remove from heat and stir in the chocolate chips until melted and smooth.",
+      "Stir in the vanilla extract and salt.",
+      "Pour the mixture into an ice cream maker and churn according to the manufacturer's instructions.",
+      "Transfer the churned ice cream to a lidded container and freeze for at least 4 hours or until firm.",
+      "Serve and enjoy."
+    ],
+    "prepTime": "10 minutes",
+    "cookTime": "0 minutes",
+    "servings": "6"
+  },
+  {
+    "id": 26,
+    "name": "Chocolate Ice Cream",
+    "details": "A rich and creamy chocolate ice cream made with cocoa powder and chocolate chips.",
+    "ingredients": [
+      "2 cups heavy cream",
+      "1 cup whole milk",
+      "3/4 cup granulated sugar",
+      "1/2 cup unsweetened cocoa powder",
+      "1/2 cup chocolate chips",
+      "1 tsp vanilla extract",
+      "Pinch of salt"
+    ],
+    "instructions": [
+      "In a medium saucepan, combine the cream, milk, sugar, and cocoa powder. Heat over medium heat, stirring constantly until the sugar and cocoa powder are dissolved.",
+      "Remove from heat and stir in the chocolate chips until melted and smooth.",
+      "Stir in the vanilla extract and salt.",
+      "Pour the mixture into an ice cream maker and churn according to the manufacturer's instructions.",
+      "Transfer the churned ice cream to a lidded container and freeze for at least 4 hours or until firm.",
+      "Serve and enjoy."
+    ],
+    "prepTime": "10 minutes",
+    "cookTime": "0 minutes",
+    "servings": "6"
+  },
+  {
+    "id": 27,
+    "name": "Tiramisu",
+    "details": "A popular Italian dessert made with layers of coffee-soaked ladyfingers, mascarpone cheese, and cocoa powder.",
+    "ingredients": [
+      "6 large egg yolks",
+      "3/4 cup granulated sugar",
+      "2/3 cup milk",
+      "1 1/4 cups heavy cream",
+      "1/2 tsp vanilla extract",
+      "8 oz mascarpone cheese",
+      "1 cup strong brewed coffee, cooled",
+      "1/4 cup coffee liqueur (optional)",
+      "2 packages ladyfingers",
+      "2 tbsp unsweetened cocoa powder"
+    ],
+    "instructions": [
+      "In a medium saucepan, whisk together egg yolks and sugar until well blended. Whisk in milk and cook over medium heat, stirring constantly, until the mixture boils. Boil gently for 1 minute, then remove from heat and allow to cool slightly. Cover tightly and chill in the refrigerator for 1 hour.",
+      "In a medium bowl, beat cream with vanilla extract until stiff peaks form.",
+      "Whisk mascarpone into yolk mixture until smooth.",
+      "In a small bowl, combine coffee and coffee liqueur (if using).",
+      "Dip each ladyfinger into coffee mixture for about 1 second and place in the bottom of a 9x13 inch dish.",
+      "Spread half of the mascarpone mixture over the ladyfingers, then half of the whipped cream.",
+      "Repeat layers and sprinkle with cocoa powder.",
+      "Cover and refrigerate for at least 4 hours before serving."
+    ],
+    "prepTime": "30 minutes",
+    "cookTime": "10 minutes",
+    "servings": "12"
+  },
+  {
+    "id": 28,
+    "name": "Baklava",
+    "details": "A rich, sweet pastry made of layers of filo filled with chopped nuts and sweetened with syrup or honey.",
+    "ingredients": [
+      "1 package phyllo dough",
+      "1 cup unsalted butter, melted",
+      "1 tsp ground cinnamon",
+      "1 cup chopped walnuts",
+      "1 cup chopped pistachios",
+      "1 cup chopped almonds",
+      "1 cup granulated sugar",
+      "1 cup water",
+      "1/2 cup honey",
+      "1 tsp vanilla extract",
+      "1 tsp grated lemon zest"
+    ],
+    "instructions": [
+      "Preheat your oven to 350°F (175°C).",
+      "Butter a 9x13 inch baking dish.",
+      "Toss nuts with cinnamon and set aside.",
+      "Unroll phyllo dough and cut whole stack in half to fit the dish.",
+      "Cover phyllo with a damp cloth while assembling the baklava to keep it from drying out.",
+      "Place two sheets of phyllo in the dish, butter thoroughly. Repeat until you have 8 sheets layered.",
+      "Sprinkle 2-3 tablespoons of nut mixture on top. Top with two sheets of phyllo, butter, nuts, layering as you go.",
+      "The top layer should be about 6-8 sheets deep.",
+      "Using a sharp knife, cut into diamond or square shapes all the way to the bottom of the dish.",
+      "Bake for about 50 minutes until baklava is golden and crisp.",
+      "Make sauce while baklava is baking: Boil sugar and water until sugar is melted. Add vanilla and honey. Simmer for about 20 minutes.",
+      "Remove baklava from oven and immediately spoon sauce over it.",
+      "Let cool completely before serving."
+    ],
+    "prepTime": "45 minutes",
+    "cookTime": "1 hour",
+    "servings": "24"
+  },
+  {
+    "id": 29,
+    "name": "Mochi",
+    "details": "A traditional Japanese rice cake made with glutinous rice flour, often filled with sweet red bean paste.",
+    "ingredients": [
+      "1 cup glutinous rice flour (mochiko)",
+      "1/4 cup granulated sugar",
+      "3/4 cup water",
+      "Cornstarch for dusting",
+      "1 cup sweet red bean paste"
+    ],
+    "instructions": [
+      "In a microwave-safe bowl, mix glutinous rice flour and sugar.",
+      "Gradually add water and stir until smooth.",
+      "Cover the bowl with plastic wrap and microwave for 2 minutes.",
+      "Stir the mixture, re-cover, and microwave for another 1-2 minutes until the dough is translucent.",
+      "Dust a surface with cornstarch and turn the dough onto it. Let cool slightly.",
+      "Divide the dough into 8 equal pieces and flatten each piece into a circle.",
+      "Place a small amount of red bean paste in the center of each circle and pinch the edges together to seal.",
+      "Roll the mochi in cornstarch to prevent sticking.",
+      "Serve immediately or store in an airtight container."
+    ],
+    "prepTime": "10 minutes",
+    "cookTime": "5 minutes",
+    "servings": "8"
+  },
+  {
+    "id": 30,
+    "name": "Spinach and Artichoke Dip",
+    "details": "A creamy and cheesy dip made with spinach, artichokes, and a blend of cheeses, perfect for serving with bread or crackers.",
+    "ingredients": [
+      "1 cup mayonnaise",
+      "1 cup grated Parmesan cheese",
+      "1 cup shredded mozzarella cheese",
+      "1 can (14 oz) artichoke hearts, drained and chopped",
+      "1 package (10 oz) frozen chopped spinach, thawed and drained",
+      "2 cloves garlic, minced",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Preheat your oven to 350°F (175°C).",
+      "In a large bowl, combine mayonnaise, Parmesan cheese, mozzarella cheese, artichokes, spinach, garlic, salt, and pepper.",
+      "Transfer the mixture to a baking dish.",
+      "Bake for 25-30 minutes or until the dip is hot and bubbly.",
+      "Serve with bread or crackers."
+    ],
+    "prepTime": "10 minutes",
+    "cookTime": "25 minutes",
+    "servings": "8"
+  },
+  {
+    "id": 31,
+    "name": "Caprese Skewers",
+    "details": "A simple and fresh appetizer made with cherry tomatoes, mozzarella balls, and basil leaves.",
+    "ingredients": [
+      "1 pint cherry tomatoes",
+      "1 package mozzarella balls",
+      "1 bunch fresh basil leaves",
+      "2 tbsp balsamic glaze",
+      "Salt and pepper to taste",
+      "Skewers"
+    ],
+    "instructions": [
+      "Thread one cherry tomato, one basil leaf, and one mozzarella ball onto each skewer.",
+      "Arrange skewers on a serving platter.",
+      "Drizzle with balsamic glaze and season with salt and pepper.",
+      "Serve immediately."
+    ],
+    "prepTime": "10 minutes",
+    "cookTime": "0 minutes",
+    "servings": "6"
+  },
+  {
+    "id": 32,
+    "name": "Stuffed Mushrooms",
+    "details": "Savory mushrooms filled with a delicious mixture of cream cheese, garlic, and herbs.",
+    "ingredients": [
+      "24 whole fresh mushrooms",
+      "2 tbsp olive oil",
+      "1/4 cup finely chopped onion",
+      "2 cloves garlic, minced",
+      "8 oz cream cheese, softened",
+      "1/4 cup grated Parmesan cheese",
+      "1/4 cup bread crumbs",
+      "2 tbsp chopped fresh parsley",
+      "Salt and pepper to taste"
+    ],
+    "instructions": [
+      "Preheat your oven to 375°F (190°C).",
+      "Clean mushrooms with a damp paper towel. Remove stems and finely chop them.",
+      "In a skillet, heat olive oil over medium heat. Cook onion, garlic, and chopped mushroom stems until tender.",
+      "In a bowl, combine cream cheese, Parmesan cheese, bread crumbs, parsley, salt, and pepper. Add the cooked onion mixture and stir until well blended.",
+      "Spoon the cream cheese mixture into the mushroom caps and place them on a baking sheet.",
+      "Bake for 20 minutes or until mushrooms are tender and filling is golden brown.",
+      "Serve warm."
+    ],
+    "prepTime": "15 minutes",
+    "cookTime": "20 minutes",
+    "servings": "6"
+  },
+  {
+    "id": 33,
+    "name": "Bruschetta",
+    "details": "A classic Italian appetizer featuring toasted bread topped with fresh tomatoes, basil, garlic, and olive oil.",
+    "ingredients": [
+      "1 baguette, sliced",
+      "2 cups diced tomatoes",
+      "1/4 cup chopped fresh basil",
+      "2 cloves garlic, minced",
+      "1/4 cup olive oil",
+      "Salt and pepper to taste",
+      "Balsamic glaze (optional)"
+    ],
+    "instructions": [
+      "Preheat your oven to 400°F (200°C).",
+      "Arrange baguette slices on a baking sheet and brush with olive oil.",
+      "Toast in the oven for 5-7 minutes or until golden brown.",
+      "In a bowl, combine tomatoes, basil, garlic, olive oil, salt, and pepper.",
+      "Top each toasted baguette slice with the tomato mixture.",
+      "Drizzle with balsamic glaze if desired.",
+      "Serve immediately."
+    ],
+    "prepTime": "10 minutes",
+    "cookTime": "7 minutes",
+    "servings": "6"
+  },
+  {
+    "id": 34,
+    "name": "Classic Mojito",
+    "details": "A refreshing Cuban cocktail made with rum, fresh mint, lime juice, sugar, and soda water.",
+    "ingredients": [
+      "10 fresh mint leaves, plus extra sprigs for garnish",
+      "1/2 lime, cut into wedges",
+      "2 tbsp white sugar, or to taste",
+      "1 cup ice cubes",
+      "1 1/2 oz white rum",
+      "1/2 cup soda water"
+    ],
+    "instructions": [
+      "Place mint leaves and 1 lime wedge into a sturdy glass. Use a muddler to crush the mint and lime to release the mint oils and lime juice.",
+      "Add 2 more lime wedges and sugar, and muddle again to release the lime juice.",
+      "Do not strain the mixture. Fill the glass almost to the top with ice.",
+      "Pour the rum over the ice, and fill the glass with soda water. Stir, taste, and add more sugar if desired.",
+      "Garnish with the remaining lime wedge and mint sprig."
+    ],
+    "prepTime": "5 minutes",
+    "cookTime": "0 minutes",
+    "servings": "1"
+  }
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+]
